@@ -1,7 +1,7 @@
 % Example input arguments (replace with actual values)
 errorReport = struct('errorMessage', {}, 'errorSeverity', {});;
-filePath = 'C:\Users\migno\Documents\FUCCI ReN - Lorinda - BMES Symp\ReN_2D_Fluo4_1.tif';
-outputDirName = 'C:\Users\migno\OneDrive\Desktop\Q Lab\CytoNet Trial Runs\Lorinda_3_18_Runs';
+filePath = 'path\ReN_2D_Fluo4_1.tif';
+outputDirName = '';
 fileName = 'ReN_2D_Fluo4-FunctionalGraph-3-28-2024';
 
 % Print time 
